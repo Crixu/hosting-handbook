@@ -12,3 +12,5 @@ include:
   - reliability.md
   - security.md
   - server-environment.md
+
+theme: jekyll-theme-cayman

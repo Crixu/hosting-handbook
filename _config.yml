@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - index.md
+  - get-involved.md
+  - performance.md
+  - reliability.md
+  - security.md
+  - server-environment.md

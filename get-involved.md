@@ -1,3 +1,8 @@
+---
+layout: page
+title: Get Involved
+---
+
 # Get Involved
 
 ## What does the Hosting Team do?

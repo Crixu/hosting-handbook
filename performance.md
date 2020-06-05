@@ -1,3 +1,7 @@
+---
+layout: page
+title: Performance
+---
 # Performance
 
 This section will cover the basics on configuring services for performance with WordPress.

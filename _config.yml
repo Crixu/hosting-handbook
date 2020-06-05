@@ -15,4 +15,4 @@ include:
   - security.md
   - server-environment.md
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-leap-day
